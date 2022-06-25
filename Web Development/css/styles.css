@@ -1,0 +1,85 @@
+
+     a  { color: #4660F1 ;
+          font-size:  19px;
+        }
+     body {
+            background-color:  #B6C6D8;
+          }
+b:hover{
+  background-color: gold;
+
+
+}
+
+     .contactt{
+            font-size: 25px;
+            position: absolute;
+            top: 105px;
+            right: 100px;
+            text-decoration:none;
+              color: blue;
+             }
+     .educ{
+            font-size: 25px;
+            position: absolute;
+            top: 105px;
+            right: 280px;
+            text-decoration:none;
+          color: blue;
+          }
+      hr {
+    background-color: none;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5% ;
+     }
+     h1{
+       color: #0C6127;
+       font-size: 40px;
+       }
+     h2{ color:#119E3E  ;
+        }
+
+
+     img{
+          margin-left: 3%;
+          margin-top: 3%;
+          border-radius: 100%;
+        }
+        img:hover{
+          background-color: gold;
+        }
+
+ .skills{
+     margin-left: 3%;
+ }
+     p{
+        font-size: 19px;
+        position: absolute;
+         top: 130px;
+         left: 239px;
+         font-size:  19px;
+       }
+
+       .skills{
+          font-size:  19px;
+
+       }
+
+       .top{
+
+         position: absolute;
+          top: 30px;
+          left: 235px;
+          font-size:  60px;
+      }
+      ul{
+         font-size: 19px;
+       }
+       .arrange{
+           margin-left: 1%;
+           margin-top: -1%;
+
+         }
